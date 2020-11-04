@@ -1,0 +1,30 @@
+.aside .nav li a:hover,
+.aside .nav li a.active{
+	color: #302e4d;
+}
+
+.home .intro .socialmedia-handles a{
+background-color:#302e4d;
+
+}
+.section-title{
+    -ms-flex:0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-bottom: 60px;
+    }
+.row{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap:wrap;
+    margin-right:15px;
+    margin-left:15px;
+    position: relative;
+}
+
+.padd-15{
+	padding-left: 15px;
+	padding-right: 15px;
+}
+ 
